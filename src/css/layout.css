@@ -35,9 +35,10 @@ div#selectSource {
   margin: 0 0 1em 0;
 }
 div.source {
-  display: inline-block;
+  display: inline;
   margin: 0 0 1em 0;
 }
+
 form {
   margin: 0 0 1em 0;
   white-space: nowrap;

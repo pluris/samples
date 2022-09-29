@@ -15,6 +15,7 @@ try {
   console.log(e);
 }
 
+const connectButton = document.querySelector('button#connectButton');
 const getMediaButton = document.querySelector('button#getMedia');
 const createPeerConnectionButton = document.querySelector('button#createPeerConnection');
 const createOfferButton = document.querySelector('button#createOffer');
